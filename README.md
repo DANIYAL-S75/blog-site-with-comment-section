@@ -19,3 +19,27 @@ To provide CRUD functionalities for blog management.
 To enable readers to post, view, and delete comments in real time.
 
 To ensure a responsive and accessible user interface across devices.
+
+
+
+Key Features:
+
+🧑‍💻 User authentication (sign up, log in, log out)
+
+✍️ Create, edit, and delete blog posts
+
+💬 Comment system for user interaction on posts
+
+📅 Post timestamps and author information
+
+🔍 Search or filter blog posts by category or keyword
+
+🎨 Responsive, user-friendly interface
+
+Technologies Used:
+
+HTML – Structure of the webpage
+
+CSS – Styling and responsive design
+
+JavaScript – Dynamic functionality and comment handling
